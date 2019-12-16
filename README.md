@@ -1,6 +1,6 @@
 website of blog
-it's features:
-1)everyone can post articles
+it's features:<ul>
+    <li>1)everyone can post articles</li>
 2)everyone can comment articles
 3)you can delete only your comment and article
 4)you can see your articles
