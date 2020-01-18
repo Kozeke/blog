@@ -7,3 +7,4 @@ it's features:<ul>
     <li>5)you should register to post article and leave comment</li>
     <li>6)to avoid spam everyone can leave only 5 comments to one article in particular day </li>
     <li>7)you can share any post to twitter or facebook</li></ul>
+Front was written by vue, back php laravel
